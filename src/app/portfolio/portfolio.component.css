@@ -1,0 +1,28 @@
+h2{
+  color: #2C3E50;
+}
+.iconbg{
+  transition: all 0.4s;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  opacity: 0;
+}
+.iconbg:hover{
+  background-color: rgba(26, 188, 156, 0.9);
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-left: 1.5rem;
+  margin-right: 1.5rem;
+  opacity: 1;
+}
+.line {
+  height: 4px;
+  width: 5rem;
+  background-color: #2C3E50;
+}

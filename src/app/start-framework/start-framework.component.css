@@ -1,0 +1,15 @@
+*{
+  margin-bottom: 0;
+}
+.bg-start{
+  background-color:#1ABC9C ;
+}
+.line {
+  height: 4px;
+  width: 5rem;
+  background-color: white;
+}
+.fa-star
+{
+  color: #ffffff;
+}
